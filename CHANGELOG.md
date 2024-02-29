@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.1...v1.0.2) (2024-02-29)
+
+
+### Bug Fixes
+
+* Set default values for Docker registry URL and username ([3c915bf](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/3c915bf277a632685920686512741de5e9685013))
+
 ## [1.0.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.0...v1.0.1) (2024-02-29)
 
 
