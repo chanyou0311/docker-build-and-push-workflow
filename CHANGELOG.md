@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.2...v1.0.3) (2024-02-29)
+
+
+### Bug Fixes
+
+* Set false for required inputs ([b9ecdda](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/b9ecddae26da8d76405f90837e2b8aba98618415))
+
 ## [1.0.2](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.1...v1.0.2) (2024-02-29)
 
 
