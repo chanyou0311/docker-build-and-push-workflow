@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.3...v1.0.4) (2024-02-29)
+
+
+### Bug Fixes
+
+* modify platform ([0de2d4a](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/0de2d4adb8a57d546e5b8ed3e361c18c23f926b9))
+
 ## [1.0.3](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.2...v1.0.3) (2024-02-29)
 
 
