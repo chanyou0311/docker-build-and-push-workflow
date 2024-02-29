@@ -7,10 +7,12 @@ on:
         required: true
         type: string
         description: "Docker registry URL"
+        default: harbor-sub.fumo.jp
       USERNAME:
         required: true
         type: string
         description: "Docker registry username"
+        default: robot$github-actions
       IMAGE_PROJECT:
         required: true
         type: string
