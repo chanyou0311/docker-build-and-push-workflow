@@ -50,7 +50,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
 
       - name: Set up Docker Buildx
         id: buildx
