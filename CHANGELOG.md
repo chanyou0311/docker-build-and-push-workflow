@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.4...v1.1.0) (2024-03-02)
+
+
+### Features
+
+* Enable to checkout with submodules ([3e05823](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/3e058235c0e298809f1ff51b47f49e42bc908b7d))
+
 ## [1.0.4](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.3...v1.0.4) (2024-02-29)
 
 
