@@ -31,7 +31,7 @@ jobs:
   deploy:
     needs: release-please
     if: ${{ needs.release-please.outputs.release_created }}
-    uses: chanyou0311/docker-build-and-push-workflow/.github/workflows/main.yaml@v1.1.0
+    uses: chanyou0311/docker-build-and-push-workflow/.github/workflows/main.yaml@v1.1.1
     with:
       IMAGE_PROJECT: sample-project
       IMAGE_NAME: sample-image
