@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.0...v1.1.1) (2024-03-02)
+
+
+### Bug Fixes
+
+* set submodules to recursive ([8992b22](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/8992b22a947954478a832783bf76987057dc78cf))
+
 ## [1.1.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.0.4...v1.1.0) (2024-03-02)
 
 
