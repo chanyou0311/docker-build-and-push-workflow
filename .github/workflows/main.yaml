@@ -37,7 +37,7 @@ on:
         required: false
         type: string
         description: "Docker context"
-        default: "{{defaultContext}}:app"
+        default: "./app"
     secrets:
       PASSWORD:
         required: true
