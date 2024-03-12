@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.1...v1.1.2) (2024-03-12)
+
+
+### Bug Fixes
+
+* change context to path context ([f7010b1](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/f7010b1241e5cbb96dfaf399ddfef840ec364a87))
+
 ## [1.1.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.0...v1.1.1) (2024-03-02)
 
 
