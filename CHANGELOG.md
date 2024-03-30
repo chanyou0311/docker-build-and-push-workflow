@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.2...v1.1.3) (2024-03-30)
+
+
+### Bug Fixes
+
+* change default registry address ([e610304](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/e610304ed83559647699bb5220c7c841e4e0fcda))
+
 ## [1.1.2](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.1...v1.1.2) (2024-03-12)
 
 
