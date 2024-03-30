@@ -27,7 +27,7 @@ on:
         required: false
         type: string
         description: "Docker registry URL"
-        default: harbor-sub.fumo.jp
+        default: harbor.fumo.jp
       USERNAME:
         required: false
         type: string
