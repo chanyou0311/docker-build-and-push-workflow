@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.3...v1.2.0) (2024-03-30)
+
+
+### Features
+
+* support linux/amd64 ([3b31175](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/3b31175a8ffdb8fdaa39d8a7e26ab6b7e4d2849b))
+
 ## [1.1.3](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.2...v1.1.3) (2024-03-30)
 
 
