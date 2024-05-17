@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.2.0...v1.2.1) (2024-05-17)
+
+
+### Bug Fixes
+
+* update docker/setup-buildx-action to v3 ([33d717c](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/33d717cc7a06d374f57c4da768eb1a58505dea9c))
+
 ## [1.2.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.1.3...v1.2.0) (2024-03-30)
 
 
