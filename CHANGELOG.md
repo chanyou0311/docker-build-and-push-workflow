@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.2.1...v1.3.0) (2025-02-15)
+
+
+### Features
+
+* add optional PUSH input for Docker registry in workflow ([2e4e3b7](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/2e4e3b774bfbb37b51eb32db034314a410a51877))
+
 ## [1.2.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.2.0...v1.2.1) (2024-05-17)
 
 
