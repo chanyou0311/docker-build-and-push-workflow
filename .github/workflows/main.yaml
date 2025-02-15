@@ -38,6 +38,11 @@ on:
         type: string
         description: "Docker context"
         default: "./app"
+      PUSH:
+        required: false
+        type: boolean
+        description: "Push to registry"
+        default: true
     secrets:
       PASSWORD:
         required: true
@@ -84,4 +89,4 @@ jobs:
           platforms: linux/arm64,linux/amd64
           cache-from: type=gha
           cache-to: type=gha,mode=max
-          push: true
+          push: ${{ inputs.PUSH }}
