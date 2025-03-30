@@ -87,6 +87,7 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           platforms: linux/arm64,linux/amd64
+          provenance: false
           cache-from: type=gha
           cache-to: type=gha,mode=max,image-manifest=true
           push: ${{ inputs.PUSH }}
