@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.3.1...v1.3.2) (2025-03-30)
+
+
+### Bug Fixes
+
+* disable provenance in Docker build step of GitHub Actions workflow ([efc139e](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/efc139e91c255071953c3cb78f506a496a6b44f3))
+
 ## [1.3.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.3.0...v1.3.1) (2025-03-30)
 
 
