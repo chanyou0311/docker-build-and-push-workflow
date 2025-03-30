@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.3.0...v1.3.1) (2025-03-30)
+
+
+### Bug Fixes
+
+* enable image manifest caching in GitHub Actions workflow ([1b26b5a](https://github.com/chanyou0311/docker-build-and-push-workflow/commit/1b26b5a0a4ecce16b9cb363d3788e6bd42628b31))
+
 ## [1.3.0](https://github.com/chanyou0311/docker-build-and-push-workflow/compare/v1.2.1...v1.3.0) (2025-02-15)
 
 
